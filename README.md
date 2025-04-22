@@ -1,5 +1,8 @@
 # Employee-Performance-Analysis-Report
  This Repository consist of  Employee performance analysis reports  built using Powerbi and SQL 
+# Employee Performance, Exit & Hiring Rate Analysis 
+   * Project Overview
+This project analyzes employee performance, engagement, and training using SQL and Power BI.
 # SQL Data Cleaning & Transformation
 * Removed NULL values, handled duplicates.
 * Joined Employee & Engagement tables (JOIN).
